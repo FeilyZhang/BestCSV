@@ -27,3 +27,5 @@ The following is the result
 ```
 ---
 Note that subtracting 1 from the len() function is the actual length of the tuple, as shown in the 18th line of code.
+
+Another point is that the module has no problem for multiple-choice questions (single and multiple choices), fill in the blanks to be updated.
