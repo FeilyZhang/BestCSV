@@ -25,3 +25,5 @@ The following is the result
 [fei@localhost ~]$ python3.6 /home/fei/python_work/csvtest.py
 {'A.大一': 51, 'B.大二': 27, 'E.其他': 7, 'D.大四': 3, 'C.大三': 15}
 ```
+---
+Note that subtracting 1 from the len() function is the actual length of the tuple, as shown in the 18th line of code.
