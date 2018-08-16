@@ -23,5 +23,5 @@ print(bc.bestCSV(fileName, indexList, cleanFlag1))
 The following is the result
 ```
 [fei@localhost ~]$ python3.6 /home/fei/python_work/csvtest.py
-{'A': 51, 'B': 27, 'E': 7, 'D': 3, 'C': 15}
+{'A.大一': 51, 'B.大二': 27, 'E.其他': 7, 'D.大四': 3, 'C.大三': 15}
 ```
